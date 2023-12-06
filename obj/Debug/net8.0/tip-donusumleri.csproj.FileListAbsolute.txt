@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pratikler\tip-donusumleri\bin\Debug\net8.0\tip-donusumleri.exe
+C:\Users\Lenovo\Desktop\pratikler\tip-donusumleri\bin\Debug\net8.0\tip-donusumleri.deps.json
+C:\Users\Lenovo\Desktop\pratikler\tip-donusumleri\bin\Debug\net8.0\tip-donusumleri.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pratikler\tip-donusumleri\bin\Debug\net8.0\tip-donusumleri.dll
+C:\Users\Lenovo\Desktop\pratikler\tip-donusumleri\bin\Debug\net8.0\tip-donusumleri.pdb
+C:\Users\Lenovo\Desktop\pratikler\tip-donusumleri\obj\Debug\net8.0\tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pratikler\tip-donusumleri\obj\Debug\net8.0\tip-donusumleri.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pratikler\tip-donusumleri\obj\Debug\net8.0\tip-donusumleri.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pratikler\tip-donusumleri\obj\Debug\net8.0\tip-donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pratikler\tip-donusumleri\obj\Debug\net8.0\tip-donusumleri.dll
+C:\Users\Lenovo\Desktop\pratikler\tip-donusumleri\obj\Debug\net8.0\refint\tip-donusumleri.dll
+C:\Users\Lenovo\Desktop\pratikler\tip-donusumleri\obj\Debug\net8.0\tip-donusumleri.pdb
+C:\Users\Lenovo\Desktop\pratikler\tip-donusumleri\obj\Debug\net8.0\tip-donusumleri.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pratikler\tip-donusumleri\obj\Debug\net8.0\ref\tip-donusumleri.dll
